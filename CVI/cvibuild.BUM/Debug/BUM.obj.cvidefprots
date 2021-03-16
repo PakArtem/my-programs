@@ -1,0 +1,96 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char **argv);"
+
+[panelCB]
+Class="Function"
+Prototype="int panelCB(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[connect]
+Class="Function"
+Prototype="int connect(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Read]
+Class="Function"
+Prototype="int Read(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[write]
+Class="Function"
+Prototype="int write(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Read_Ring]
+Class="Function"
+Prototype="int Read_Ring(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[PHASE_SET]
+Class="Function"
+Prototype="int PHASE_SET(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[SHIFT6_6_SET]
+Class="Function"
+Prototype="int SHIFT6_6_SET(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[FR_SET]
+Class="Function"
+Prototype="int FR_SET(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[NAKOPLENIE_SET]
+Class="Function"
+Prototype="int NAKOPLENIE_SET(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[MAGIC_KEY_SET]
+Class="Function"
+Prototype="int MAGIC_KEY_SET(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[PULSE_LENTH_SET]
+Class="Function"
+Prototype="int PULSE_LENTH_SET(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Nakoplenie_OFF_R]
+Class="Function"
+Prototype="int Nakoplenie_OFF_R(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[LED_RESET_BOTTOM]
+Class="Function"
+Prototype="int LED_RESET_BOTTOM(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Reverse_V_SIM]
+Class="Function"
+Prototype="int Reverse_V_SIM(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[MAGIC_KEY_ADJ_SET]
+Class="Function"
+Prototype="int MAGIC_KEY_ADJ_SET(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Rect_protect_OFF]
+Class="Function"
+Prototype="int Rect_protect_OFF(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Rev_protect_OFF]
+Class="Function"
+Prototype="int Rev_protect_OFF(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Slow_up_OFF]
+Class="Function"
+Prototype="int Slow_up_OFF(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Pulse_lenth_1Stor]
+Class="Function"
+Prototype="int Pulse_lenth_1Stor(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[U_REVERSE_SET]
+Class="Function"
+Prototype="int U_REVERSE_SET(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[U_REVERSE_SET_noStor]
+Class="Function"
+Prototype="int U_REVERSE_SET_noStor(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Get_V_LINE]
+Class="Function"
+Prototype="int Get_V_LINE(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Protection_Check]
+Class="Function"
+Prototype="int Protection_Check(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+

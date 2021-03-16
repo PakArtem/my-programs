@@ -1,0 +1,1 @@
+-force-include-file "BUM.c";"c:\Users\Bezuglov\Desktop\ILY BUM 1\BUM.c" 
